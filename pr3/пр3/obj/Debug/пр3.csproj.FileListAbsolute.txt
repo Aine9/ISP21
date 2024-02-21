@@ -1,0 +1,10 @@
+C:\Users\shiya\source\repos\пр3\пр3\obj\Debug\пр3.csproj.AssemblyReference.cache
+C:\Users\shiya\source\repos\пр3\пр3\obj\Debug\пр3.Form1.resources
+C:\Users\shiya\source\repos\пр3\пр3\obj\Debug\пр3.Properties.Resources.resources
+C:\Users\shiya\source\repos\пр3\пр3\obj\Debug\пр3.csproj.GenerateResource.cache
+C:\Users\shiya\source\repos\пр3\пр3\obj\Debug\пр3.csproj.CoreCompileInputs.cache
+C:\Users\shiya\source\repos\пр3\пр3\bin\Debug\пр3.exe.config
+C:\Users\shiya\source\repos\пр3\пр3\bin\Debug\пр3.exe
+C:\Users\shiya\source\repos\пр3\пр3\bin\Debug\пр3.pdb
+C:\Users\shiya\source\repos\пр3\пр3\obj\Debug\пр3.exe
+C:\Users\shiya\source\repos\пр3\пр3\obj\Debug\пр3.pdb
